@@ -8,7 +8,8 @@
     background-color: yellow;
 }
 
-.font {
+.bg-black, .bg-yellow {
     font-size: 28px;
     font-family: 'Helvetics', 'Times New Roman', 'sans-serif';
 }
+
